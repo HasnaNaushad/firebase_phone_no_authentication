@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396120796605",
+    "project_id": "phone-no-1f50d",
+    "storage_bucket": "phone-no-1f50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396120796605:android:d4c123c7fa331eaaa8f6d4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_phonenoauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396120796605-ji8t3n441ejtgr3qlhurhf33lmk9mdcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNr5x6_Qp29oQ1Olk4xjfxm5Vqs-jAuYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396120796605-ji8t3n441ejtgr3qlhurhf33lmk9mdcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
